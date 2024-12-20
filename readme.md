@@ -4,6 +4,8 @@ Writer.Hand is a Python tool designed to add text to images with customizable po
 
 It can also used to convert text files to customised handwritten notes.
 
+![Demo Image](images/sample.jpg)
+
 ## Features
 
 - Add text to images at specified positions.
